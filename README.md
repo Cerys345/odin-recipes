@@ -1,1 +1,2 @@
-A basic recipe website
+# odin-recipes
+"A basic recipe website"
